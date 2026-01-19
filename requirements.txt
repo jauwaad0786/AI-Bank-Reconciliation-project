@@ -1,0 +1,9 @@
+pandas==2.2.3
+numpy==2.1.2
+scikit-learn==1.5.2
+xgboost==2.1.1
+openpyxl==3.1.5
+python-dateutil==2.9.0.post0
+difflib2==0.1.0
+chardet==5.2.0
+xlrd==2.0.1
